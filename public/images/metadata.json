@@ -1,0 +1,370 @@
+[
+  {
+    "priority": 1,
+    "uuid": "71c80b37-d1e1-44ef-9086-99703e866859",
+    "fileName": "71c80b37-d1e1-44ef-9086-99703e866859.jpg",
+    "part": "前篇",
+    "group": "離別と希望の蝶",
+    "number": 1
+  },
+  {
+    "priority": 2,
+    "uuid": "553d933d-3a93-43c8-9ae2-2fba5a4568c3",
+    "fileName": "553d933d-3a93-43c8-9ae2-2fba5a4568c3.jpg",
+    "part": "前篇",
+    "group": "離別と希望の蝶",
+    "number": 2
+  },
+  {
+    "priority": 3,
+    "uuid": "0158dc9f-55aa-4162-863f-b9109d0ea89b",
+    "fileName": "0158dc9f-55aa-4162-863f-b9109d0ea89b.jpg",
+    "part": "前篇",
+    "group": "離別と希望の蝶",
+    "number": 3
+  },
+  {
+    "priority": 4,
+    "uuid": "e94b0e3c-b9c1-4c49-b8d3-561f5c4edc2f",
+    "fileName": "e94b0e3c-b9c1-4c49-b8d3-561f5c4edc2f.jpg",
+    "part": "前篇",
+    "group": "離別と希望の蝶",
+    "number": 4
+  },
+  {
+    "priority": 5,
+    "uuid": "b01270ca-cfae-48f0-9baa-e965fb87f104",
+    "fileName": "b01270ca-cfae-48f0-9baa-e965fb87f104.jpg",
+    "part": "前篇",
+    "group": "離別と希望の蝶",
+    "number": 5
+  },
+  {
+    "priority": 6,
+    "uuid": "2baf1cef-e7fb-4331-bf02-19168f5f4c80",
+    "fileName": "2baf1cef-e7fb-4331-bf02-19168f5f4c80.jpg",
+    "part": "前篇",
+    "group": "離別と希望の蝶",
+    "number": 6
+  },
+  {
+    "priority": 7,
+    "uuid": "1ed7d410-6c71-4923-b190-fb7eff071c21",
+    "fileName": "1ed7d410-6c71-4923-b190-fb7eff071c21.jpg",
+    "part": "前篇",
+    "group": "離別と希望の蝶",
+    "number": 7
+  },
+  {
+    "priority": 8,
+    "uuid": "12b09583-254d-450e-985f-95157176909e",
+    "fileName": "12b09583-254d-450e-985f-95157176909e.jpg",
+    "part": "前篇",
+    "group": "離別と希望の蝶",
+    "number": 8
+  },
+  {
+    "priority": 9,
+    "uuid": "789e57b8-e586-4039-9ddd-7a4d308b9001",
+    "fileName": "789e57b8-e586-4039-9ddd-7a4d308b9001.jpg",
+    "part": "前篇",
+    "group": "離別と希望の蝶",
+    "number": 9
+  },
+  {
+    "priority": 10,
+    "uuid": "eb80d37f-f296-4cd7-b17f-1edce8bd87d4",
+    "fileName": "eb80d37f-f296-4cd7-b17f-1edce8bd87d4.jpg",
+    "part": "前篇",
+    "group": "離別と希望の蝶",
+    "number": 10
+  },
+  {
+    "priority": 11,
+    "uuid": "82553e22-bdb2-48f0-a217-ec72d6bed14e",
+    "fileName": "82553e22-bdb2-48f0-a217-ec72d6bed14e.jpg",
+    "part": "中篇",
+    "group": "離別と希望の蝶",
+    "number": 1
+  },
+  {
+    "priority": 12,
+    "uuid": "da62fe4a-8d7d-46ab-8eaf-aff6db8da6d6",
+    "fileName": "da62fe4a-8d7d-46ab-8eaf-aff6db8da6d6.jpg",
+    "part": "中篇",
+    "group": "離別と希望の蝶",
+    "number": 2
+  },
+  {
+    "priority": 13,
+    "uuid": "166fba51-0c8b-4115-82ec-6b31aa0ccf8c",
+    "fileName": "166fba51-0c8b-4115-82ec-6b31aa0ccf8c.jpg",
+    "part": "中篇",
+    "group": "離別と希望の蝶",
+    "number": 3
+  },
+  {
+    "priority": 14,
+    "uuid": "745a5ac7-a522-43e1-abd4-fd71ed3e010b",
+    "fileName": "745a5ac7-a522-43e1-abd4-fd71ed3e010b.jpg",
+    "part": "中篇",
+    "group": "離別と希望の蝶",
+    "number": 4
+  },
+  {
+    "priority": 15,
+    "uuid": "b8b1f9db-d298-485e-8941-317e2e7cf481",
+    "fileName": "b8b1f9db-d298-485e-8941-317e2e7cf481.jpg",
+    "part": "中篇",
+    "group": "離別と希望の蝶",
+    "number": 5
+  },
+  {
+    "priority": 16,
+    "uuid": "bd93db5d-b7d2-4c33-92e9-93d407cbbd5d",
+    "fileName": "bd93db5d-b7d2-4c33-92e9-93d407cbbd5d.jpg",
+    "part": "中篇",
+    "group": "離別と希望の蝶",
+    "number": 6
+  },
+  {
+    "priority": 17,
+    "uuid": "58cbea69-c766-4721-9341-5916deaaaa69",
+    "fileName": "58cbea69-c766-4721-9341-5916deaaaa69.jpg",
+    "part": "中篇",
+    "group": "離別と希望の蝶",
+    "number": 7
+  },
+  {
+    "priority": 18,
+    "uuid": "46e060ec-dc17-4784-88f6-139ebca317e9",
+    "fileName": "46e060ec-dc17-4784-88f6-139ebca317e9.jpg",
+    "part": "中篇",
+    "group": "離別と希望の蝶",
+    "number": 8
+  },
+  {
+    "priority": 19,
+    "uuid": "2ea147e7-2562-4364-b2bb-13830e18bb01",
+    "fileName": "2ea147e7-2562-4364-b2bb-13830e18bb01.jpg",
+    "part": "中篇",
+    "group": "離別と希望の蝶",
+    "number": 9
+  },
+  {
+    "priority": 20,
+    "uuid": "18c8a47d-8645-4021-a010-0284dc05a99d",
+    "fileName": "18c8a47d-8645-4021-a010-0284dc05a99d.jpg",
+    "part": "後篇",
+    "group": "離別と希望の蝶",
+    "number": 1
+  },
+  {
+    "priority": 21,
+    "uuid": "c2bfb2bc-96f0-4b80-ba94-f21575d1e4de",
+    "fileName": "c2bfb2bc-96f0-4b80-ba94-f21575d1e4de.jpg",
+    "part": "後篇",
+    "group": "離別と希望の蝶",
+    "number": 2
+  },
+  {
+    "priority": 22,
+    "uuid": "a3f04815-e745-4074-86ce-105cd94903cc",
+    "fileName": "a3f04815-e745-4074-86ce-105cd94903cc.jpg",
+    "part": "後篇",
+    "group": "離別と希望の蝶",
+    "number": 3
+  },
+  {
+    "priority": 23,
+    "uuid": "2ad7dcf5-4485-4e79-a651-e897eaa91aa9",
+    "fileName": "2ad7dcf5-4485-4e79-a651-e897eaa91aa9.jpg",
+    "part": "後篇",
+    "group": "離別と希望の蝶",
+    "number": 4
+  },
+  {
+    "priority": 24,
+    "uuid": "80f84d7c-cc83-4c63-9b7a-c9525c7de07c",
+    "fileName": "80f84d7c-cc83-4c63-9b7a-c9525c7de07c.jpg",
+    "part": "後篇",
+    "group": "離別と希望の蝶",
+    "number": 5
+  },
+  {
+    "priority": 25,
+    "uuid": "7b8e6c70-96ce-4271-b3ee-f15b72be68bb",
+    "fileName": "7b8e6c70-96ce-4271-b3ee-f15b72be68bb.jpg",
+    "part": "後篇",
+    "group": "離別と希望の蝶",
+    "number": 6
+  },
+  {
+    "priority": 26,
+    "uuid": "85633243-3cd1-4a76-9aba-d432a7155224",
+    "fileName": "85633243-3cd1-4a76-9aba-d432a7155224.jpg",
+    "part": "後篇",
+    "group": "離別と希望の蝶",
+    "number": 7
+  },
+  {
+    "priority": 27,
+    "uuid": "c1827a88-f288-4cbe-adae-b0cae4cdc2a4",
+    "fileName": "c1827a88-f288-4cbe-adae-b0cae4cdc2a4.jpg",
+    "part": "後篇",
+    "group": "離別と希望の蝶",
+    "number": 8
+  },
+  {
+    "priority": 28,
+    "uuid": "20d639f7-e530-48c9-81bd-8c3146ee0f92",
+    "fileName": "20d639f7-e530-48c9-81bd-8c3146ee0f92.jpg",
+    "part": "後篇",
+    "group": "離別と希望の蝶",
+    "number": 9
+  },
+  {
+    "priority": 29,
+    "uuid": "8d76c7d8-22c9-4ace-8522-72dd091f4a2b",
+    "fileName": "8d76c7d8-22c9-4ace-8522-72dd091f4a2b.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 1
+  },
+  {
+    "priority": 30,
+    "uuid": "164a84f4-cb45-4e90-881b-d9ae9d5ceb0c",
+    "fileName": "164a84f4-cb45-4e90-881b-d9ae9d5ceb0c.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 2
+  },
+  {
+    "priority": 31,
+    "uuid": "7c71a316-e148-404e-ba52-60cf0d48362f",
+    "fileName": "7c71a316-e148-404e-ba52-60cf0d48362f.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 3
+  },
+  {
+    "priority": 32,
+    "uuid": "0593ed52-4ed4-4927-80fc-dd41297f0a47",
+    "fileName": "0593ed52-4ed4-4927-80fc-dd41297f0a47.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 4
+  },
+  {
+    "priority": 33,
+    "uuid": "0193c6cb-9ea5-4fb1-a037-d974308537ae",
+    "fileName": "0193c6cb-9ea5-4fb1-a037-d974308537ae.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 5
+  },
+  {
+    "priority": 34,
+    "uuid": "db1e2b5c-14bf-41db-92cc-65b33cf44ffb",
+    "fileName": "db1e2b5c-14bf-41db-92cc-65b33cf44ffb.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 6
+  },
+  {
+    "priority": 35,
+    "uuid": "04496e6a-b22b-422e-a0e2-454d1069a970",
+    "fileName": "04496e6a-b22b-422e-a0e2-454d1069a970.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 7
+  },
+  {
+    "priority": 36,
+    "uuid": "c882e4fb-ab72-4b86-aa02-7993264c4014",
+    "fileName": "c882e4fb-ab72-4b86-aa02-7993264c4014.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 8
+  },
+  {
+    "priority": 37,
+    "uuid": "e08bf19c-7b0b-44ed-aabf-e6b15b31e670",
+    "fileName": "e08bf19c-7b0b-44ed-aabf-e6b15b31e670.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 9
+  },
+  {
+    "priority": 38,
+    "uuid": "1949827b-0e92-4601-afe0-aefbecbc4f19",
+    "fileName": "1949827b-0e92-4601-afe0-aefbecbc4f19.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 10
+  },
+  {
+    "priority": 39,
+    "uuid": "e452e2d5-3f25-4362-b6a5-2960059fae4f",
+    "fileName": "e452e2d5-3f25-4362-b6a5-2960059fae4f.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 11
+  },
+  {
+    "priority": 40,
+    "uuid": "cd0e588d-570b-4b51-9565-6b881f94414e",
+    "fileName": "cd0e588d-570b-4b51-9565-6b881f94414e.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 12
+  },
+  {
+    "priority": 41,
+    "uuid": "35332a1e-cdfb-4f59-9ec0-9f7037e47b7c",
+    "fileName": "35332a1e-cdfb-4f59-9ec0-9f7037e47b7c.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 13
+  },
+  {
+    "priority": 42,
+    "uuid": "9d683d14-7d8f-4498-8e8f-83a28c374728",
+    "fileName": "9d683d14-7d8f-4498-8e8f-83a28c374728.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 14
+  },
+  {
+    "priority": 43,
+    "uuid": "87f71063-5b45-43c5-99e8-ae30b3a6cc91",
+    "fileName": "87f71063-5b45-43c5-99e8-ae30b3a6cc91.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 15
+  },
+  {
+    "priority": 44,
+    "uuid": "1bb84b4b-6f31-4ad2-be9a-bc6b2c07a5dd",
+    "fileName": "1bb84b4b-6f31-4ad2-be9a-bc6b2c07a5dd.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 16
+  },
+  {
+    "priority": 45,
+    "uuid": "e3f89c91-ba9c-4082-aa90-d404dc1dc734",
+    "fileName": "e3f89c91-ba9c-4082-aa90-d404dc1dc734.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 17
+  },
+  {
+    "priority": 46,
+    "uuid": "1028be6b-8ea9-4cb4-a963-acf58b2d2245",
+    "fileName": "1028be6b-8ea9-4cb4-a963-acf58b2d2245.jpg",
+    "part": "終わり篇",
+    "group": "離別と希望の蝶",
+    "number": 18
+  }
+]

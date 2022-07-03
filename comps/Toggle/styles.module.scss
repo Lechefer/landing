@@ -1,0 +1,15 @@
+//@import "../node_modules/bootstrap/scss/forms/form-check";
+
+.toggle {
+  background-color: #282828;
+}
+
+.toggle:checked {
+  background-color: #4a4a4a;
+  border-color: #1a1a1a !important;
+}
+
+.toggle:focus {
+  border-color: #1a1a1a !important;
+  box-shadow: none;
+}
