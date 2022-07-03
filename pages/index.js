@@ -201,7 +201,7 @@ const Landing = ({imagesMetadata}, blurMax = 5) => {
 									handleToggle={() => {
 										setVideoModValue(!videoModValue)
 									}}>
-									Video mod
+									Video mode
 								</Toggle>
 							</div>
 						</div>
