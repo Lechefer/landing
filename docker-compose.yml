@@ -5,10 +5,10 @@ services:
     restart: always
     build:
       context: .
-      args:
-        CONFIG: ${CI_BUILD_NAME:-ex}
       dockerfile: Dockerfile${BUILDER_POSTFIX:-}
-    volumes:
-      - ./.env.${CI_BUILD_NAME:-ex}:/app/.env
+#      args:
+#        CONFIG: ${CI_BUILD_NAME:-ex}
+#    volumes:
+#      - ./.env.${CI_BUILD_NAME:-ex}:/app/.env
     ports:
       - '${EXPOSE_PORT:-3000}:3000'

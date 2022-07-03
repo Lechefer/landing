@@ -14,7 +14,7 @@ COPY . .
 ARG CONFIG
 
 
-COPY .env.${CONFIG} /app/.env.production
+#COPY .env.${CONFIG} /app/.env.production
 RUN yarn build:prod
 RUN cp .next/sw.js /app/public/
 RUN cp .next/workbox-*.js /app/public/
