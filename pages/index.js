@@ -88,7 +88,7 @@ const Landing = ({imagesMetadata}, blurMax = 5) => {
 		<>
 			<Head>
 				<title>lechefer</title>
-				<link rel="icon" href="public/favicon.ico"/>
+				<link rel="icon" href="/favicon.ico"/>
 			</Head>
 			<motion.div className={clsx(styles.root, 'vw-100 vh-100 overflow-hidden')}
 				custom={{blurMax, videoModValue}}
