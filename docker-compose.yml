@@ -6,9 +6,9 @@ services:
     build:
       context: .
       args:
-        CONFIG: ${CI_BUILD_NAME:-lint}
+        CONFIG: ${CI_BUILD_NAME:-ex}
       dockerfile: Dockerfile${BUILDER_POSTFIX:-}
     volumes:
-      - ./envs/.env.${CI_BUILD_NAME:-prod}:/app/.env
+      - ./.env.${CI_BUILD_NAME:-ex}:/app/.env
     ports:
       - '${EXPOSE_PORT:-3000}:3000'
