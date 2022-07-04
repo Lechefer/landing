@@ -68,6 +68,7 @@ const videoMode = {
 const Landing = ({imagesMetadata}, blurMax = 5) => {
 	const [[page], setPage] = useState([0]);
 	const [videoModValue, setVideoModValue] = useState(false);
+	const [backgroundOpacityValue, setBackgroundOpacityValue] = useState(0.3);
 
 	const imageIndex = wrap(0, imagesMetadata.length, page);
 
@@ -99,7 +100,8 @@ const Landing = ({imagesMetadata}, blurMax = 5) => {
 					opacity: {duration: 3},
 					repeat: 1
 				}}>
-				<div className={clsx(styles.backgroundSlideWrapper)}>
+				<div className={clsx(styles.backgroundSlideWrapper)}
+					style={{opacity: backgroundOpacityValue}}>
 					<AnimatePresence>
 						<motion.div
 							className={clsx('mx-0 px-0 w-100 h-100 position-absolute top-0 start-0')}
@@ -199,7 +201,7 @@ const Landing = ({imagesMetadata}, blurMax = 5) => {
 							<div className={clsx('d-flex flex-column')}>
 								<Toggle
 									isOn={videoModValue}
-									handleToggle={() => {
+									onChange={() => {
 										setVideoModValue(!videoModValue)
 									}}>
 									Video mode

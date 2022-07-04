@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import styles from './styles.module.scss'
 
 
-const Toggle = ({ isOn, handleToggle, children }) => {
+const Toggle = ({ isOn, onChange, children }) => {
 	return (
 		<>
 			<div className={clsx('form-check form-switch')}>
@@ -12,7 +12,7 @@ const Toggle = ({ isOn, handleToggle, children }) => {
 					type="checkbox"
 					id="flexSwitchCheckDefault"
 					checked={isOn}
-					onChange={handleToggle}/>
+					onChange={onChange}/>
 				<label className={clsx('form-check-label')} htmlFor="flexSwitchCheckDefault">
 					{children}
 				</label>

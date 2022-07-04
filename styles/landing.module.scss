@@ -1,3 +1,13 @@
+// Theme: opacity 0.15
+//$primary-color-light: #4a4a4a;
+//$primary-color-middle: #282828;
+//$primary-color-dark: #1a1a1a;
+
+// Theme: opacity 0.3
+$primary-color-light: #7d7d7d;
+$primary-color-middle: #646464;
+$primary-color-dark: #4b4b4b;
+
 %text {
   -ms-user-select: none;
   -moz-user-select: none;
@@ -12,7 +22,7 @@
 }
 
 .backgroundSlideWrapper {
-  opacity: 0.15;
+
 }
 
 .backgroundSlide {
@@ -36,14 +46,15 @@
 .remark {
   @extend %text;
 
-  color: #282828;
-  text-shadow: 0 0 10px #1a1a1a;
+  color: $primary-color-middle;
+  text-shadow: 0 0 10px $primary-color-dark;
 }
 
 .links {
-  color: #282828;
+  color: $primary-color-middle;
 }
 
 .links:hover {
-  color: #4a4a4a;
+  color: $primary-color-light;
 }
+
