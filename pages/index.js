@@ -54,8 +54,8 @@ const variantsText = {
 
 const videoMode = {
 	true: {
-		timer: 500,
-		imageFade: 1.5,
+		timer: 1000,
+		imageFade: 1,
 		textFade: 0.5
 	},
 	false: {
